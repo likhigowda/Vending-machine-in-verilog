@@ -8,7 +8,7 @@ Certain assumptions are madefor this verilog code.
 2. It accepts only 5 Rs and 10 Rs coins (Denomination)
 
 ### State Diagram
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605900-79f0b07e-39c1-41ff-985b-b943d6d5c2b9.png)
 
 ### State Transitions
 #### The product costs 15 Rs.
@@ -36,16 +36,16 @@ Move to State 0, OUTPUT = 1, CHANGE = Rs 5 (01).
 ## Results
 
 #### Adding 5 Rs three times consecutively
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605928-977a15e9-2582-43e1-80c2-2016e0bc7f19.png)
 
 #### Adding 5 Rs and then 10 Rs
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605936-7f5eb37c-b8ed-425f-8b18-3aa84b444159.png)
 
 #### Adding 10 Rs two times
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605947-0fdb54e2-f30e-4048-8733-109bc9c6c508.png)
 
 #### Adding 5 Rs and then nothing
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605955-16b52ec5-0b46-4d9c-8f4e-56296f049987.png)
 
 #### Adding 10 Rs and then nothing
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/88785262/180605960-8b12044e-a0a1-472b-a3f3-ea9e7d6b3283.png)
