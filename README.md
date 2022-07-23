@@ -4,7 +4,7 @@
 A vending machine is an automated machine that provides items such as snacks, beverages, cigarettes and lottery tickets to consumers after cash, a credit card, or other form of payment is inserted into the machine or otherwise made.
 
 Certain assumptions are made for this verilog code.
-1. The vending has only one type of product i.e., water bottle which costs 15 Rs
+1. The vending machine has only one type of product i.e., water bottle which costs 15 Rs
 2. It accepts only 5 Rs and 10 Rs coins (Denomination)
 
 Here
