@@ -7,6 +7,11 @@ Certain assumptions are made for this verilog code.
 1. The vending has only one type of product i.e., water bottle which costs 15 Rs
 2. It accepts only 5 Rs and 10 Rs coins (Denomination)
 
+Here
+* 00 - 0 Rs
+* 01 - 5 Rs
+* 10 - 10 Rs
+
 ### State Diagram
 ![image](https://user-images.githubusercontent.com/88785262/180605900-79f0b07e-39c1-41ff-985b-b943d6d5c2b9.png)
 
