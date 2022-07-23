@@ -5,7 +5,7 @@ A vending machine is an automated machine that provides items such as snacks, be
 
 Certain assumptions are made for this verilog code.
 1. The vending machine has only one type of product i.e., water bottle which costs 15 Rs
-2. It accepts only 5 Rs and 10 Rs coins (Denomination)
+2. It accepts coins of denominations five and ten
 
 Here
 * 00 - 0 Rs
